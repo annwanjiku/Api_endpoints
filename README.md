@@ -1,4 +1,5 @@
-# Flask API Methods: GET, POST, PUT, DELETE
+# Building API Endpoints in Flask 
+API Methods: GET, POST, PUT, DELETE
 
 ## Introduction
 
