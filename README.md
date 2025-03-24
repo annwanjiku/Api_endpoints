@@ -1,10 +1,7 @@
-# Building API Endpoints in Flask 
-API Methods: GET, POST, PUT, DELETE
-
-## Introduction
-
+# Building API Endpoints using Flask 
 Flask is a lightweight web framework in Python used to build APIs. It allows handling different HTTP methods such as `GET`, `POST`, `PUT`, and `DELETE` to interact with data in a structured way.
 
+# API Methods: GET, POST, PUT, DELETE
 ## HTTP Methods and Their Uses
 
 ### 1. **GET** - Retrieving Data
