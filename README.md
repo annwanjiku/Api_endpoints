@@ -125,10 +125,6 @@ Flask is a lightweight web framework in Python used to build APIs. It allows han
 ## Notes and Best Practices
 
 - `POST`, `PUT`, and `DELETE` **cannot be used in a browser URL**; use `requests` or API testing tools.
-- Always use `request.json` to handle JSON input, which is extracted from the request body.
 - Define routes clearly and use meaningful endpoints.
 
-## Conclusion
-
-Flask provides an easy way to build APIs with standard HTTP methods. Using `jsonify`, handling requests properly, and using tools like `requests` ensures smooth API functionality.
 
